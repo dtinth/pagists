@@ -1,3 +1,18 @@
 [submodule "20131101-ISO-29110"]
 	path = 20131101-ISO-29110
 	url = https://gist.github.com/7260316.git
+[submodule "20131017-Pagist-Chat"]
+	path = 20131017-Pagist-Chat
+	url = https://gist.github.com/6961429.git
+[submodule "20121210-TechnicalEnglish-Finding-Clauses"]
+	path = 20121210-TechnicalEnglish-Finding-Clauses
+	url = https://gist.github.com/4245918.git
+[submodule "20121106-OOP-An-Adapter-Analogy"]
+	path = 20121106-OOP-An-Adapter-Analogy
+	url = https://gist.github.com/4024721.git
+[submodule "20121016-Pagist-Kitchen-Sink"]
+	path = 20121016-Pagist-Kitchen-Sink
+	url = https://gist.github.com/3899782.git
+[submodule "20121016-DiscreteMath-ProofByCases-Example"]
+	path = 20121016-DiscreteMath-ProofByCases-Example
+	url = https://gist.github.com/3899155.git
