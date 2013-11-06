@@ -16,3 +16,6 @@
 [submodule "20121016-DiscreteMath-ProofByCases-Example"]
 	path = 20121016-DiscreteMath-ProofByCases-Example
 	url = https://gist.github.com/3899155.git
+[submodule "20121214-Pagist"]
+	path = 20121214-Pagist
+	url = https://gist.github.com/4287148.git
